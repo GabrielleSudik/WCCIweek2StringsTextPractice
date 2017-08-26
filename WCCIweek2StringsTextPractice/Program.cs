@@ -130,7 +130,7 @@ namespace WCCIweek2StringsTextPractice
             DateTime parsedDate = DateTime.Parse(text7);
             Console.WriteLine(parsedDate);
 
-
+            Console.ReadLine();
         }
     }
 }
