@@ -1,0 +1,6 @@
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek2StringsTextPractice\bin\Debug\WCCIweek2StringsTextPractice.exe.config
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek2StringsTextPractice\bin\Debug\WCCIweek2StringsTextPractice.exe
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek2StringsTextPractice\bin\Debug\WCCIweek2StringsTextPractice.pdb
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek2StringsTextPractice\obj\Debug\WCCIweek2StringsTextPractice.csprojResolveAssemblyReference.cache
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek2StringsTextPractice\obj\Debug\WCCIweek2StringsTextPractice.exe
+C:\Users\Gabrielle\AppData\Local\Temporary Projects\WCCIweek2StringsTextPractice\obj\Debug\WCCIweek2StringsTextPractice.pdb
